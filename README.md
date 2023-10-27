@@ -1,5 +1,5 @@
 # apna-college
 This is for practice
 <br>
-Author - Apna College
+Author - Tanveer Shinde(Apna College)g
 
